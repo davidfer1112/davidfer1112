@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋, soy David Pérez</h1>
 
-- 👨‍💻 Todos mis proyectos están disponibles en https://github.com/davidfer1112
+- 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/davidfer1112](https://github.com/davidfer1112)
 
 - 📫 Cómo contactar conmigo **davidfernando1112@gmail.com**
 
@@ -8,7 +8,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/david fernando perez medina](https://www.linkedin.com/in/david-fernando-perez-medina-287451268/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david fernando perez medina" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/david-fernando-perez-medina-287451268/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david fernando perez medina" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
