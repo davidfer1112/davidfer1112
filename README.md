@@ -76,6 +76,6 @@
 
 ###
 
-![snake gif](https://github.com/davidfer1112/davidfer1112/blob/output/github-contribution-grid-snake.gif)
+<img src="https://raw.githubusercontent.com/davidfer1112/davidfer1112/output/snake.svg" alt="Snake animation" />
 
 ###
