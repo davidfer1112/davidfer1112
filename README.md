@@ -76,6 +76,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/davidfer1112/davidfer1112/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/davidfer1112/davidfer1112/output/github-contribution-grid-snake.svg
+" alt="Snake animation" />
 
 ###
