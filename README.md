@@ -78,9 +78,4 @@
 
 <img src="https://raw.githubusercontent.com/davidfer1112/davidfer1112/output/snake-dark.svg" alt="Snake animation" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="snake-dark.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/davidfer1112/davidfer1112/output/snake-dark.svg" />
-</picture>
-
 ###
