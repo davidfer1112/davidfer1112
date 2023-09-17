@@ -21,7 +21,10 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=davidfer1112.davidfer1112&"  />
+  <!-- <img src="https://visitor-badge.laobi.icu/badge?page_id=davidfer1112.davidfer1112&"  /> -->
+
+  ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdavidfer1112&label=Visitors&countColor=%232c94e4&style=flat)
+
 </div>
 
 ###
