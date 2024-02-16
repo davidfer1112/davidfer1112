@@ -69,6 +69,19 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="35" alt="css3 logo"  />
   <img width="15" />
   <img src="https://img.shields.io/badge/PlanetScale-000000?logo=planetscale&logoColor=white&style=for-the-badge" height="35" alt="planetscale logo"  />
+  <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" height="35" alt="angularjs logo"  />
+  <img width="15" />
+  <img src="https://img.shields.io/badge/Android Studio-3DDC84?logo=androidstudio&logoColor=black&style=for-the-badge" height="35" alt="androidstudio logo"  />
+  <img width="15" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge" height="35" alt="kotlin logo"  />
+  <img width="15" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge" height="35" alt="vite logo"  />
+  <img width="15" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge" height="35" alt="dart logo"  />
+  <img width="15" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" height="35" alt="flutter logo"  />
+
+###
 </div>
 
 ###
