@@ -41,7 +41,7 @@
 
 ###
 
-<p align="left">I am from Colombia<br><br>- 📚 I am currently learning programming for mobile devices, Angular and spring boot.<br><br>- ⚡ In my free time I like to exercise, play video games and sleep. <br><br>- 💻 Get to know my experience https://davidfer1112.github.io/Portfolio</p>
+<p align="left">I am from Colombia<br><br>- 📚 Currently, I am learning software architecture, design patterns, microservices, cloud and geo-referencing technologies.<br><br>- ⚡ In my free time I like to exercise, play video games and sleep. <br><br>- 💻 Get to know my experience https://davidfer1112.github.io/Portfolio</p>
 
 ###
 
@@ -80,8 +80,22 @@
   <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge" height="35" alt="dart logo"  />
   <img width="15" />
   <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" height="35" alt="flutter logo"  />
+  <img src="https://img.shields.io/badge/C Sharp-239120?logo=csharp&logoColor=white&style=for-the-badge" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge" height="40" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black&style=for-the-badge" height="40" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=black&style=for-the-badge" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" height="40" alt="vercel logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge" height="40" alt="flask logo"  />
 
-###
 </div>
 
 ###
